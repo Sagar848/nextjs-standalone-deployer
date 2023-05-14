@@ -1,0 +1,11 @@
+{
+ "name": "",
+ "version": "",
+ "private": false,
+ "scripts": {
+  "start": "next start"
+ },
+ "dependencies": {
+  "next": ""
+ }
+}
